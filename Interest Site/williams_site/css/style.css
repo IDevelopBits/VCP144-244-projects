@@ -1,0 +1,70 @@
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Pixelify Sans', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+body, p, q {
+    font-family: 'Sometype Mono', monospace;
+    color: #F2F2F2;
+}
+
+body {
+    background-image: url("../images/background.jpg");
+}
+
+.card p {
+    color: #0B1226;;
+}
+
+.navbar {
+    background-color: #8BA5D9;
+}
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav-item .nav-link:link, .nav-item .nav-link:visited {
+    color: #0B1226;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+.nav-item .nav-link:hover {
+    color: #F2F2F2;
+}
+.navbar-brand:link, .navbar-brand:visited {
+    color: #0B1226;
+}
+.navbar-brand:hover {
+    color:#F2F2F2;
+}
+.navbar-toggler {
+    color:#F2B5A7;
+}
+
+.btn-primary:link, .btn-primary:visited {
+    background-color: #F23005;
+    color:white;
+    border-color: #dbbcb5;
+}
+
+.btn-primary:hover {
+    background-color: white;
+}
+
+.carousel-caption h5, .carousel-caption p {
+    color: white;
+    text-shadow: 2px 2px darkgray;
+}
+
+.fa-arrow-circle-right {
+    color: black;
+    text-shadow: 2px 2px darkgray;
+}
+
+.fa-arrow-circle-left {
+    color: black;
+    text-shadow: 2px 2px darkgray;
+}
